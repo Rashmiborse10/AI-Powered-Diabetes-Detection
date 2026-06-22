@@ -14,3 +14,5 @@ Features:
 
 Tech Stack:
 Python · Streamlit · Scikit-learn · LangChain · FAISS · Groq (Llama 3) · SHAP · HuggingFace Embeddings
+
+Dataset Link:https://www.kaggle.com/datasets/jamaltariqcheema/pima-indians-diabetes-dataset
